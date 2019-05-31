@@ -1,4 +1,4 @@
-# Bravo_Points_Name_Picker
+# Bravo_Points_Name_Picker Summary
 Another one of my first projects. A non-trivial tool for Program Managers on my team.
 
 # Backstory
